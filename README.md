@@ -6,7 +6,7 @@ For the design of the webpage, HTML and CSS are used.
 For database management, I use mySQL and control it with PHPMyAdmin
 
 This website has some features such as:
-1. Shopping Cart
+1. Shopping Cart\n
    Shopping Cart is the cart for customer to put commodities that they want to buy.
    In the shopping cart page, user can add or remove the commodity in their cart.
 2. User Management
