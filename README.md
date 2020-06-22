@@ -6,10 +6,13 @@ For the design of the webpage, HTML and CSS are used.
 For database management, I use mySQL and control it with PHPMyAdmin
 
 This website has some features such as:
-1. Shopping Cart\n
+1. Shopping Cart
+
    Shopping Cart is the cart for customer to put commodities that they want to buy.
    In the shopping cart page, user can add or remove the commodity in their cart.
+
 2. User Management
+
    There are 4 types of user in this website. There is administrator, seller, customer, and visitor.
    - Administrator has the highest authority in the website. Administrator user can open other users info,
      remove their account, managing product database, check e-mail subscriber, and suggestions given by customers.
@@ -20,16 +23,24 @@ This website has some features such as:
    - Visitor are those who does not have an account in the website. This type of user cannot access all modules mentioned above.
      They can only access the homepage, about us, contact, and help page. But, they can register an account so that they can be
      a customer and buy products from the website. Visitor can also subscribe their email and give suggestion to the administrator.
+
 3. Detailed Commodity Information
+
    One commodity is displayed with details, such as the name, price, sources of raw materials, color, size, producer,
    and description of the product.
+
 4. Recommendation System
+
    This might change in the future. This recommendation system is intended to be intelligent. So, the website will recommend
    commodities to the user based on their browsing history and furniture preferences.
+
 5. Commenting System
+
    Website users can comment on one product. From there customers can give a review over a product, and seller can give them
    a feedback. This system is only accessible for those who made an account on the website.
+
 6. Transaction System
+
    Customers and sellers can do transaction to each other through the website. Customer can change their address, re-check their
    order, and choose payment method. Unfortunately, this system does not generate real transaction. Once finished, invoice will
    be generated for customer, and they can print the invoice. Then, their invoice will be stored in their purchase history so that
@@ -38,5 +49,7 @@ This website has some features such as:
    order is rejected, customer's money will be refunded.
 
 This project may not perfect, so I am open to any suggestions.
+
 I wish this web-based application can help anyone who needs an example of online store website.
+
 Thank you!
