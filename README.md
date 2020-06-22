@@ -13,13 +13,16 @@ This Furniture Store Website is my final thesis project. The project is focusing
    Shopping Cart is the cart for customer to put commodities that they want to buy.
    In the shopping cart page, user can add or remove the commodity in their cart.
    
-   ![ShoppingCart](shoppingcart.jpg)
+   ![ShoppingCart](Snapshots/shoppingcart.jpg)
 
 2. User Management
 
    There are 4 types of user in this website. There is administrator, seller, customer, and visitor.
    - Administrator has the highest authority in the website. Administrator user can open other users info,
      remove their account, managing product database, check e-mail subscriber, and suggestions given by customers.
+     
+     ![Admin](Snapshots/adminpage.jpg)
+     
    - Seller can sell their products through the website. The website provides this type of user a catalog of their own.
      Uploaded products by seller will be stored in this page. Seller can also receive order from customers and respond to them.
    - Customer can comment, use shopping cart system, and buy products. This type of user can also print their invoice and check
