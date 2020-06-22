@@ -1,6 +1,8 @@
 # FurnitureStore
 This Furniture Store Website is my final thesis project. The project is focusing on recommendation system and transaction module. 
 
+![homepage](Snapshots/homepage.png)
+
 ## Software and Programming Language Used
 * Back-end Development: JSP(Java Server Page) and JavaScript
 * Front-end Design: HTML and CSS are used.
@@ -13,7 +15,7 @@ This Furniture Store Website is my final thesis project. The project is focusing
    Shopping Cart is the cart for customer to put commodities that they want to buy.
    In the shopping cart page, user can add or remove the commodity in their cart.
    
-   ![ShoppingCart](Snapshots/shoppingcart.jpg)
+   ![ShoppingCart](Snapshots/shoppingcart.png)
 
 2. User Management
 
@@ -21,7 +23,7 @@ This Furniture Store Website is my final thesis project. The project is focusing
    - Administrator has the highest authority in the website. Administrator user can open other users info,
      remove their account, managing product database, check e-mail subscriber, and suggestions given by customers.
      
-     ![Admin](Snapshots/adminpage.jpg)
+     ![Admin](Snapshots/adminpage.png)
      
    - Seller can sell their products through the website. The website provides this type of user a catalog of their own.
      Uploaded products by seller will be stored in this page. Seller can also receive order from customers and respond to them.
@@ -33,6 +35,8 @@ This Furniture Store Website is my final thesis project. The project is focusing
 
 3. Detailed Commodity Information
 
+   ![productdisplay](Snapshots/productdisplay.png)
+   
    One commodity is displayed with details, such as the name, price, sources of raw materials, color, size, producer,
    and description of the product.
 
