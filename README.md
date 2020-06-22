@@ -1,11 +1,13 @@
 # FurnitureStore
 This Furniture Store Website is my final thesis project. The project is focusing on recommendation system and transaction module. 
 
-This website is created with JSP(Java Server Page) as a back-end source code, with the help of JavaScript.
-For the design of the webpage, HTML and CSS are used.
-For database management, I use mySQL and control it with PHPMyAdmin
+## Software and Programming Language Used
+Back-end Development: JSP(Java Server Page) and JavaScript
+Front-end Design: HTML and CSS are used.
+Database Management: mySQL, with PHPMyAdmin
+Code Editor: Eclipse
 
-This website has some features such as:
+## Website Features
 1. Shopping Cart
 
    Shopping Cart is the cart for customer to put commodities that they want to buy.
