@@ -1,5 +1,5 @@
 # FurnitureStore
-This Furniture Store Website is my final thesis project. The project is focusing on recommendation system and transaction module. 
+This Furniture Store Website is my final thesis project.
 
 ![homepage](Snapshots/homepage.png)
 
